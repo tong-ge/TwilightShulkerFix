@@ -1,13 +1,13 @@
 [
 {
-  "modid": "examplemod",
+  "modid": "twilightshulkerfix",
   "name": "Example Mod",
   "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["CleanroomMC"],
+  "authorList": [""],
   "credits": "Authors of this project",
   "logoFile": "",
   "screenshots": [],
